@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Real-Time Game
+# Tic-Tac-Toe Game
 A real-time, 2-player Tic-Tac-Toe game built with Python (Flask) and Socket.IO. Designed for real-time interaction and containerized for modern cloud deployment.
 
 # Features
@@ -17,7 +17,7 @@ A real-time, 2-player Tic-Tac-Toe game built with Python (Flask) and Socket.IO. 
  - Frontend: HTML, CSS, JavaScript
 
  - DevOps: Docker, Kubernetes
- - 
+    
 # Deployment
 - This project is containerized for easy deployment to any Kubernetes cluster.
 - Runngin Locally with Docker Dekstop and Kubernetes
